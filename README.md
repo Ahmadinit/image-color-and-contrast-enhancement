@@ -206,7 +206,3 @@ python "Adaptive Contrast  & Color enhancement.py"
 6. View original and enhanced images side-by-side
 
 ---
-
-## License
-
-This project is part of an academic assignment for Digital Image Processing course.
